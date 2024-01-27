@@ -4,7 +4,6 @@ import pygame.mixer
 
 pygame.init()
 pygame.mixer.init()
-# pygame.mixer.set_num_channels(2)
 chomp_sfx = pygame.mixer.Sound("assets/chomp.mp3")
 boing_sfx = pygame.mixer.Sound("assets/boing.mp3")
 pygame.mixer.music.load("assets/music0.mp3")
