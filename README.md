@@ -2,7 +2,8 @@
 
 Welcome to the classic Snake game implemented in Python using the Pygame library!
 
-![Snake Game Demo](assets/sample.gif)
+<img src="sample.gif" width="400">
+![Snake Game Demo](assets/sample.gif)size
 
 ## Table of Contents
 - [Description](#description)
@@ -12,6 +13,7 @@ Welcome to the classic Snake game implemented in Python using the Pygame library
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
+- [Orignal Music](#original-music)
 - [High Score](#high-score)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -50,9 +52,9 @@ This Snake game is a simple and nostalgic implementation of the popular Snake ga
    
 2. Install the required dependencies:
 
-```bash
-pip install pygame
-```
+   ```bash
+   pip install pygame
+   ```
 
 ## Usage
 
@@ -66,9 +68,13 @@ python snake_game.py
 
 Feel free to customize the game by modifying the code. You can adjust variables such as snake_speed, snake_block, and even add your own music tracks.
 
+## Orignal Music
+
+This game has original music made by the author.
+
 ## High Score
 
 The game tracks your highest score, and it will be displayed each time you play. The high score is stored in the highscore.txt file.
 
-License
+## License
 This project is licensed under the MIT License.
