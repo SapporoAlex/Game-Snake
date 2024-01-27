@@ -46,10 +46,13 @@ This Snake game is a simple and nostalgic implementation of the popular Snake ga
    ```bash
    git clone https://github.com/yourusername/snake-game.git
    cd snake-game
-Install the required dependencies:
+   ```
+   
+2. Install the required dependencies:
 
 ```bash
 pip install pygame
+```
 
 ## Usage
 
@@ -57,6 +60,7 @@ Run the game using the following command:
 
 ```bash
 python snake_game.py
+```
 
 ## Customization
 
