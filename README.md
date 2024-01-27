@@ -3,7 +3,6 @@
 Welcome to the classic Snake game implemented in Python using the Pygame library!
 
 <img src="assets/sample.gif" width="400">
-![Snake Game Demo](assets/sample.gif)
 
 ## Table of Contents
 - [Description](#description)
