@@ -12,7 +12,7 @@ Welcome to the classic Snake game implemented in Python using the Pygame library
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Orignal Music](#original-music)
+- [Original Music](#original-music)
 - [High Score](#high-score)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -67,7 +67,7 @@ python snake_game.py
 
 Feel free to customize the game by modifying the code. You can adjust variables such as snake_speed, snake_block, and even add your own music tracks.
 
-## Orignal Music
+## Original Music
 
 This game has original music made by the author.
 
