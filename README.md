@@ -23,15 +23,14 @@ This Snake game is a simple and nostalgic implementation of the popular Snake ga
 ## Features
 
 - Classic Snake gameplay with a nostalgic touch.
-- Adjustable snake speed for varying difficulty levels.
-- Dynamic music changes as you progress through different score levels.
+- Dynamic music and background changes as you progress through different score levels.
 - High score tracking to challenge yourself and beat your best score.
-- Colorful and responsive interface.
+- Colourful and responsive interface.
 
 ## How to Play
 
 - Use the arrow keys to control the snake's direction (Up, Down, Left, Right).
-- Eat the white rectangles (food) to grow the snake and increase your score.
+- Eat the white square (food) to grow the snake and increase your score.
 - Avoid running into the snake's own body or the game boundaries.
 - The game ends when the snake collides with itself or the boundaries.
 
@@ -49,19 +48,22 @@ This Snake game is a simple and nostalgic implementation of the popular Snake ga
    cd snake-game
 Install the required dependencies:
 
-bash
-Copy code
+```bash
 pip install pygame
-Usage
+
+## Usage
+
 Run the game using the following command:
 
-bash
-Copy code
+```bash
 python snake_game.py
-Customization
+
+## Customization
+
 Feel free to customize the game by modifying the code. You can adjust variables such as snake_speed, snake_block, and even add your own music tracks.
 
-High Score
+## High Score
+
 The game tracks your highest score, and it will be displayed each time you play. The high score is stored in the highscore.txt file.
 
 License
